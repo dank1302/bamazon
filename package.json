@@ -1,0 +1,21 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon week 12 homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dank1302/bamazon.git"
+  },
+  "author": "Dan Kissiday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dank1302/bamazon/issues"
+  },
+  "homepage": "https://github.com/dank1302/bamazon#readme",
+  "inquirer": "^3.0.6",
+  "mysql": "^2.13.0"
+}
